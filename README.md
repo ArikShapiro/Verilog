@@ -1,2 +1,3 @@
 # Verilog
-Verilog Coding Portfolio
+Verilog coding portfolio.
+Updated on daily basis.
